@@ -1,4 +1,4 @@
-function ret = gf_dis(a,b)
+function ret = gf_dis(a,b)#xxfxffg
 ret = 0;
 a_temp = de2bi(gf2num(a),3);
 b_temp = de2bi(gf2num(b),3);
